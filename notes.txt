@@ -1,5 +1,6 @@
 
 Git commit test
+Git commit test 2
 
 Recap -
 
